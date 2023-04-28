@@ -1,0 +1,3 @@
+import customFunctions.environmentFunctions
+
+customFunctions.environmentFunctions.copy_files_and_print_console_commands()
